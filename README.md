@@ -13,7 +13,7 @@ Features
 Getting Started
 ---------------
 1. Clone the repository:
-   git clone https://github.com/your-username/wordpair-generator.git
+   git clone https://github.com/Viditgupta-official/WordPair-Generator.git
    cd wordpair-generator
 
 2. Install dependencies:
